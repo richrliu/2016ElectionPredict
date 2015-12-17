@@ -1,0 +1,7 @@
+** Model: Linear SVM with parameters defined in potus_svm.xml
+** Trained on: 14 features, 1213 observations in train_potus_by_county.csv 
+** Results for testing model on the training data: 
+  Error: 21.02 % 
+  (We expect that the error rate in the testing data >= 21.02 %)
+
+Richard Liu, Nov 19 2015
